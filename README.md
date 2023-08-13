@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jesmuc. FRC Mentor at 4403. Working rn as EE.
+- 👋 Hi, I’m @Jesmuc.
 - 👀 I’m interested in AI, Math and Robotics.
 - 🌱 I’m currently learning DL Fundamentals.
 - 💞️ I’m looking to collaborate on AI open source projects.
