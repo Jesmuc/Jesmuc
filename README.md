@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jesmuc.
-- 👀 I’m interested in AI, Math and Robotics.
-- 🌱 I’m currently learning DL Fundamentals.
-- 💞️ I’m looking to collaborate on AI open source projects.
+- 👀 I’m interested in Math, Neurosciencia, AI and Robotics.
+- 🌱 I’m currently learning more about Mathematical Neuroscience.
 - 📫 How to reach me: jesmunca@gmail.com
 
 <!---
