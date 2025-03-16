@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jesmuc.
-- 👀 I’m interested in Math, Neurosciencia, AI and Robotics.
+- 👀 I’m interested in Math, Neuroscience, AI and Robotics.
 - 🌱 I’m currently learning more about Mathematical Neuroscience.
 - 📫 How to reach me: jesmunca@gmail.com
 
